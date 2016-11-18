@@ -54,10 +54,10 @@
 # result = a.join('-')
 # p result
 
-# 配列を逆順にして返す
-a = ['a', 'b', 'c']
-result = a.reverse
-p result
+# 7 配列を逆順にして返す
+# a = ['a', 'b', 'c']
+# result = a.reverse
+# p result
 
 
 
