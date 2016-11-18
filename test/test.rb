@@ -59,6 +59,18 @@
 # result = a.reverse
 # p result
 
+# 8 配列の中から指定した個数分、ランダムに抽出して返す
+# p ['a', 'b', 'c'].sample
+# p ['a', 'b', 'c'].sample(2)
+
+# 条件に一致した要素を抽出する
+# array = [1, 2, 3, 4, 5]
+# result = array.select{ |x| x >=3 }
+# p result
+
+# 配列の要素をシャッフルして返す
+array = [1, 2, 3, 4, 5]
+p array.shuffle
 
 
 
