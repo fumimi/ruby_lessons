@@ -15,44 +15,28 @@
 # array = ['a', 'b', 'c']
 
 # 6 条件に一致する最初の要素の位置を返す
-# a = ['a', 'b', 'c']
-# result1 = a.index('c')
-# p result1
-# result2 = a.index('z')
-# p result2
+# array = ['a', 'b', 'c']
 
 # 7 配列を指定した文字列で連結して返す
-# a = ['a', 'b', 'c']
-# result = a.join('-')
-# p result
+# array = ['a', 'b', 'c']
 
 # 8 配列を逆順にして返す
-# a = ['a', 'b', 'c']
-# result = a.reverse
-# p result
+# array = ['a', 'b', 'c']
 
 # 9 配列の中から指定した個数分、ランダムに抽出して返す
-# p ['a', 'b', 'c'].sample
-# p ['a', 'b', 'c'].sample(2)
+# array ['a', 'b', 'c'].sample
 
 # 10 条件に一致した要素を抽出する
 # array = [1, 2, 3, 4, 5]
-# result = array.select{ |x| x >=3 }
-# p result
 
 # 11 配列の要素をシャッフルして返す
 # array = [1, 2, 3, 4, 5]
-# p array.shuffle
 
 # 12 指定した部分から抽出した部分配列を返す
 # array = [1, 2, 3, 4, 5]
-# p array.slice(0, 3)
-# p array.alice(2..4)
 
 # 13 配列を整理して返す
 # array = ['e', 'd', 'a', 'b', 'c']
-# p array.sort
 
 # 14 重複を除いた配列を返す
 # array = [2, 1, 5, 1, 3, 2, 4, 3]
-# p array.uniq
