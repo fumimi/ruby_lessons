@@ -69,8 +69,40 @@
 # p result
 
 # 配列の要素をシャッフルして返す
-array = [1, 2, 3, 4, 5]
-p array.shuffle
+# array = [1, 2, 3, 4, 5]
+# p array.shuffle
+
+# print("hello, Ruby.\n")
+
+# puts "Hello, ", "Ruby!"
+
+# puts "100"
+# puts 100
+# p "100\n"
+# p 100
+
+# print "日本語を表示します。\n"
+# print "日本語を表示します。\n"
+
+alphabet = "abcdefg"
+num = 10
+age = 28
+name = "qoo"
+
+puts alphabet
+puts num
+puts age
+puts name
+
+
+
+
+
+
+
+
+
+
 
 
 
